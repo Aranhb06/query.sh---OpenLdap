@@ -4,13 +4,13 @@
 2. Dale permisos al script:
 
    ```bash
-   sudo chmod +x Consulta.sh
+   sudo chmod +x query.sh
    ```
 
 3. Ejecuta el script:
 
    ```bash
-   ./Consulta.sh
+   ./query.sh
    ```
 
 4. Proporciona los datos solicitados, por ejemplo:
@@ -30,13 +30,13 @@
 2. Grant permissions to the script:
 
    ```bash
-   sudo chmod +x Consulta.sh
+   sudo chmod +x query.sh
    ```
 
 3. Run the script:
 
    ```bash
-   ./Consulta.sh
+   ./query.sh
    ```
 
 4. Provide the requested data, for example:
@@ -56,13 +56,13 @@
 2. Accordez les permissions au script :
 
    ```bash
-   sudo chmod +x Consulta.sh
+   sudo chmod +x query.sh
    ```
 
 3. Exécutez le script :
 
    ```bash
-   ./Consulta.sh
+   ./query.sh
    ```
 
 4. Fournissez les données demandées, par exemple :
